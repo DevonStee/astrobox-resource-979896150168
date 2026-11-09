@@ -3,7 +3,7 @@
     "id": "979896150168",
     "restype": "watchface",
     "name": "ANIME BIG NAME",
-    "description": "ANIME BIG NAME_动画标题卡_黑白大字\n无详细介绍, 抱歉~\n目前支持小米手环 10 / 11 nfc\n想看动态效果、AOD 和使用方法, 可以移步小红书 @叫我Brin就好",
+    "description": "ANIME BIG NAME_动画标题卡_黑白大字\n无详细介绍, 抱歉~\n目前支持小米手环 10 / 11 / 9 Pro / 10 Pro\n想看动态效果、AOD 和使用方法, 可以移步小红书 @叫我Brin就好",
     "preview": [
       "media/03-预览-大字.png",
       "media/04-预览-亮屏.png",
@@ -27,23 +27,33 @@
   ],
   "downloads": {
     "xmb10": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/Anime Big Name.bin",
-      "versionCode": 0
+      "versionCode": 1
     },
     "xmb10nfc": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/Anime Big Name.bin",
-      "versionCode": 0
+      "versionCode": 1
     },
     "xmb11": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/Anime Big Name.bin",
-      "versionCode": 0
+      "versionCode": 1
     },
     "xmb11nfc": {
-      "version": "0.0.0",
+      "version": "0.0.1",
       "file_name": "downloads/Anime Big Name.bin",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "0.0.0",
+      "file_name": "downloads/Anime Big Name Pro.face",
+      "versionCode": 0
+    },
+    "xmb10p": {
+      "version": "0.0.0",
+      "file_name": "downloads/Anime Big Name Pro.face",
       "versionCode": 0
     }
   },
